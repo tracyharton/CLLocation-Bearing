@@ -1,0 +1,4 @@
+CLLocation-Bearing
+==================
+
+CLLocation+Bearing
